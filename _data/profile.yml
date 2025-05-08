@@ -4,7 +4,7 @@ navbar_name: "Liang Mao"
 
 positions:
 - logo: /assets/images/badges/sjtu.png
-  name: Master student @ ShangHai JiaoTong University
+  name: Master student @ Shanghai JiaoTong University
 
 
 email: "fc1694007153@outlook.com"
@@ -32,7 +32,7 @@ portrait_caption: >-
   Photo by Liang Mao
 
 education:
-- name: ShangHai JiaoTong University
+- name: Shanghai JiaoTong University
   logo: /assets/images/badges/sjtu.png
   position: >-  
     Master student
