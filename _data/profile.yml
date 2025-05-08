@@ -1,11 +1,10 @@
-primary_name: "Liang"
+primary_name: "Liang Mao"
 secondary_name: ""
-navbar_name: "Mao"
+navbar_name: "Liang Mao"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+- logo: /assets/images/badges/sjtu_red.png
+  name: Master student @ ShangHai JiaoTong University
 
 
 email: "fc1694007153@outlook.com"
