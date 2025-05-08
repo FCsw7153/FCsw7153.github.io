@@ -33,10 +33,14 @@ portrait_caption: >-
 
 education:
 - name: ShangHai JiaoTong University
-  position: Master student
+  logo: /assets/images/badges/sjtu.png
+  position: >-  
+    Master student
   date: Sep. 2025 - present
 - name: SouthWest JiaoTong University
-  position: B.S. in Logistics
+  logo: /assets/images/badges/sjtu.png
+  position: >-  
+    B.S. in Logistics
   date: Sep. 2021 - Jul. 2025
 
 # experience:
